@@ -83,7 +83,7 @@ body{
     padding: 4%;
     /* border: 1px solid #ccc; */
 }
-#allName, #residence {
+ #residence {
     font-size:100%;
     display: grid;
     grid-template-columns: 49.5% 49.5%;
@@ -95,7 +95,7 @@ body{
 #residence > input{
     padding: 6%;
 }
-#lastname, #postal, #amount,#account, #card, #pin, #username, #password, #identity, #email{
+#lastname, #postal, #amount,#account, #card, #pin, #username, #password, #identity, #email, #surname{
     width: 100%;
 }
 #reference{
